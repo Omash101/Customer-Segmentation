@@ -27,7 +27,7 @@ This segmentation model will empower businesses to tailor their offerings, enhan
 ## PROJECT OBJECTIVE
 The main goal of the project is to develop an innovative Customer Segmentation system that surpasses traditional demographic classifications![image](https://github.com/Omash101/Customer-Segmentation/assets/142664878/375314a3-3780-4dda-9883-a9f1aef929a3)
 ## DATA DICTIONARY
-- [Category – The category of goods]
+-[ [Category – The category of goods]
 - [City – The city where customers are ordering from]
 - [County – The county where customers are ordering from]
 - [Cust Id -  CustomerID]
@@ -43,7 +43,7 @@ The main goal of the project is to develop an innovative Customer Segmentation s
 - [User Name – The customer’s username]
 - [ Zip – Customer’s zip code]
 - [Qty ordered – The quantity of goods ordered.]
-- [Total- Total amount paid by customer]
+- [Total- Total amount paid by customer]]
 ![image](https://github.com/Omash101/Customer-Segmentation/assets/142664878/e391f5c8-7d7c-4a77-af42-62c67d5f70fc)
 
 ## CONCLUSION
